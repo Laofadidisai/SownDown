@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3FB8FA5B-29F3-4FE5-A108-6CA16C4BF54A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Test</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2D21F938-5904-46BF-A018-32F34FD7C335</key>
+		<string>https://github.com/Laofadidisai/workwork.git/%E9%87%8D%E7%94%A8%E9%9B%AA%E8%8A%B1%E4%B8%8B%E8%90%BD%EF%BC%8C%E8%87%AA%E5%AE%9A%E4%B9%89%E7%B1%BB</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Test.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2D21F938-5904-46BF-A018-32F34FD7C335</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>2D21F938-5904-46BF-A018-32F34FD7C335</key>
+		<string>https://163.com@github.com/Laofadidisai/workwork.git</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://163.com@github.com/Laofadidisai/workwork.git/%E9%87%8D%E7%94%A8%E9%9B%AA%E8%8A%B1%E4%B8%8B%E8%90%BD%EF%BC%8C%E8%87%AA%E5%AE%9A%E4%B9%89%E7%B1%BB/Test.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2D21F938-5904-46BF-A018-32F34FD7C335</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2D21F938-5904-46BF-A018-32F34FD7C335</string>
+			<key>IDESourceControlWCCName</key>
+			<string>重用雪花下落，自定义类</string>
+		</dict>
+	</array>
+</dict>
+</plist>
